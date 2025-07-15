@@ -1,0 +1,14 @@
+c:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\bin\Debug\net9.0\EjemploCsharp.exe
+C:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\bin\Debug\net9.0\EjemploCsharp.deps.json
+C:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\bin\Debug\net9.0\EjemploCsharp.runtimeconfig.json
+c:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\bin\Debug\net9.0\EjemploCsharp.dll
+c:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\bin\Debug\net9.0\EjemploCsharp.pdb
+c:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\obj\Debug\net9.0\EjemploCsharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\obj\Debug\net9.0\EjemploCsharp.AssemblyInfoInputs.cache
+c:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\obj\Debug\net9.0\EjemploCsharp.AssemblyInfo.cs
+c:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\obj\Debug\net9.0\EjemploCsharp.csproj.CoreCompileInputs.cache
+c:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\obj\Debug\net9.0\EjemploCsharp.dll
+c:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\obj\Debug\net9.0\refint\EjemploCsharp.dll
+c:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\obj\Debug\net9.0\EjemploCsharp.pdb
+C:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\obj\Debug\net9.0\EjemploCsharp.genruntimeconfig.cache
+C:\Users\RIcardo\Documents\mt5DataAnalisis\EjemploCsharp\obj\Debug\net9.0\ref\EjemploCsharp.dll
